@@ -10,6 +10,7 @@ class Solution {
                 list.add(hap);
             }
         }
+        
         answer = new int[list.size()];
         int index = 0;
         for (int num : list) {
