@@ -12,6 +12,6 @@ def solution(money):
     for i in range(1, len(money)):
         dp2[i] = max(dp2[i - 1], dp2[i - 2] + money[i])
 
- 
+
 
     return max(dp1[-2], dp2[-1])
