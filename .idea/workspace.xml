@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/1202_프로그래머스 깊이,너비 우선탐색/두 개 뽑아서 더하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/1202_프로그래머스 깊이,너비 우선탐색/타겟 넘버.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1203_프로그래머스 깊이,너비 우선탐색/네트워크.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1203_프로그래머스 깊이,너비 우선탐색/숫자 문자열과 영단어.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/유진/1129_프로그래머스 동적계획법/도둑질.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/1129_프로그래머스 동적계획법/도둑질.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
