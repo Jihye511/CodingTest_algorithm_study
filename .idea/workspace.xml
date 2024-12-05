@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/1204_프로그래머스 DFS,BFS/게임 맵 최단 거리.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/1204_프로그래머스 DFS,BFS/푸드 파이트 대회.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/유진/1202_프로그래머스 깊이,너비 우선탐색/두 개 뽑아서 더하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/1202_프로그래머스 DFS,BFS/두 개 뽑아서 더하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/유진/1202_프로그래머스 깊이,너비 우선탐색/타겟 넘버.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/1202_프로그래머스 DFS,BFS/타겟 넘버.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/유진/1203_프로그래머스 깊이,너비 우선탐색/네트워크.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/1203_프로그래머스 DFS,BFS/네트워크.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/유진/1203_프로그래머스 깊이,너비 우선탐색/숫자 문자열과 영단어.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/1203_프로그래머스 DFS,BFS/숫자 문자열과 영단어.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1205_프로그래머스 DFS,BFS/단어 변환.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1205_프로그래머스 DFS,BFS/문자열 내 마음대로 정렬하기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
