@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/1210_프로그래머스 DFS,BFS/[1차]비밀 지도.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/1210_프로그래머스 DFS,BFS/퍼즐 조각 채우기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1211_프로그래머스 이분탐색/입국심사.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1211_프로그래머스 이분탐색/추억 점수.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
