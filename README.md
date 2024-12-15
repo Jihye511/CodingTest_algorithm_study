@@ -300,6 +300,18 @@
 
 </details>
 
+<details>
+  <summary>19. 프로그래머스 10주차</summary>
+
+|일차|날짜| 알고리즘 | 세부항목 |[지혜](https://github.com/Jihye511)|[서연](https://github.com/seoyeon2001)|[유진](https://github.com/g0yujin)|[지은](https://github.com/JiELee1)|
+|---|---|---|---|---|---|---|---|
+|94일차|12/16|그래프|기사단원의 무기, 순위|||||
+|95일차|12/17|그래|과일 장수, 방의 개수|||||
+
+
+
+</details>
+
 ## 🎯Next Week Target
 
-18주차 프로그래머스 lv.1 && 그래프
+1월부터 백준 골드 2문제 풀기로 시즌3 시작!
