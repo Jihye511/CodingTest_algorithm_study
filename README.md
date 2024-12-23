@@ -40,9 +40,20 @@
   <summary>2차 진행 - 프로그래머스</summary>
 
  
- - 기간 : 2024.10.14 ~ 진행중
+ - 기간 : 2024.10.14 ~ 2024.12.17
  - 프로그래머스 고득점 Kit 문제 1개, lv1 기본 문제 1개씩 풀기
  - [프로그래머스 코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
+ 
+</details>
+</br>
+<details>
+  <summary>3차 진행 - 백준(골드)</summary>
+
+ 
+ - 기간 : 2024.01.01 ~
+ - 문제집에 있는 알고리즘 폴더에서 골드 2문제씩 풀기
+ - 한주에 알고리즘 1개
+ - [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon/)
  
 </details>
 
