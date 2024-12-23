@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="" />
+    <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/유진/1224_백준 트리/1991_트리순회.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +92,7 @@
     "Python.19532_수학은 비대면강의입니다.executor": "Run",
     "Python.19637_IF문 좀 대신 써줘.executor": "Run",
     "Python.1969_DNA.executor": "Run",
+    "Python.1991_트리순회.executor": "Run",
     "Python.20053.executor": "Run",
     "Python.20115_에너지 드링크.executor": "Run",
     "Python.20291.executor": "Run",
