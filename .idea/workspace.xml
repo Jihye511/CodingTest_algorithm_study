@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="" />
+    <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/유진/1226_백준 DFS,BFS/1303_전투.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/1223_백준 BFS/1697_숨바꼭질.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/1223_백준 DFS, BFS/1697_숨바꼭질.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/1225_백준 DFS/2644_촌수계산.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/1225_백준 DFS,BFS/2644_촌수계산.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +60,7 @@
     "Python.1244.executor": "Run",
     "Python.1260.executor": "Run",
     "Python.12933.executor": "Run",
+    "Python.1303_전투.executor": "Run",
     "Python.1325_효율적인 해킹.executor": "Run",
     "Python.13305_주유소.executor": "Run",
     "Python.1343_폴리오미노.executor": "Run",
