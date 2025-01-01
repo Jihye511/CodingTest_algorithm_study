@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/1231_백준 그리디/1541_잃어버린 괄호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/250101_백준 자료구조/10773_제로.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +44,7 @@
   "keyToString": {
     "Python.0930_백준 다이나믹 프로그래밍.executor": "Run",
     "Python.1012_유기농 배추.executor": "Run",
+    "Python.10773_제로.executor": "Run",
     "Python.10815_숫자카드.executor": "Run",
     "Python.10870_피보나치 수 5.executor": "Run",
     "Python.10994.executor": "Run",
