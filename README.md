@@ -50,7 +50,7 @@
   <summary>3차 진행 - 백준(골드)</summary>
 
  
- - 기간 : 2024.01.01 ~
+ - 기간 : 2024.01.02 ~
  - 문제집에 있는 알고리즘 폴더에서 골드 2문제씩 풀기
  - 한주에 알고리즘 1개
  - [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon/)
@@ -323,6 +323,20 @@
 
 </details>
 
+<details>
+  <summary>20. 자료구조</summary>
+
+|일차|날짜| 알고리즘 | 세부항목 |[지혜](https://github.com/Jihye511)|[서연](https://github.com/seoyeon2001)|[유진](https://github.com/g0yujin)|[지은](https://github.com/JiELee1)|[지수](https://github.com/codesooo)|
+|---|---|---|---|---|---|---|---|---|
+|96일차|1/2|자료구조|2800, 2493||||||
+|97일차|1/3|자료구조|22942, 1918|||||||
+
+
+
+</details>
+
 ## 🎯Next Week Target
 
-1월부터 백준 골드 2문제 풀기로 시즌3 시작!
+21주차. 자료구조 & 수학
+
+22주차. 트리
