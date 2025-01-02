@@ -1,6 +1,6 @@
 package 자료구조;
 
-import java.io.*;
+import java.io.*; 
 import java.util.*;
 
 public class b2493 {
