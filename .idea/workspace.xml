@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/250101_백준 자료구조/10773_제로.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/250102_백준 자료구조/2493_탑.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/250102_백준 자료구조/2800_괄호 제거.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,6 +115,7 @@
     "Python.2407_조합.executor": "Run",
     "Python.2417_정수 제곱근.executor": "Run",
     "Python.2422_한윤정 아이스크림.executor": "Run",
+    "Python.2493_탑.executor": "Run",
     "Python.2503_숫자 야구.executor": "Run",
     "Python.2512_예산.executor": "Run",
     "Python.25416_빠른 숫자 탐색.executor": "Run",
@@ -125,6 +127,7 @@
     "Python.2751_수 정렬하기2.executor": "Run",
     "Python.2753.executor": "Run",
     "Python.2798_블랙잭.executor": "Run",
+    "Python.2800_괄호 제거.executor": "Run",
     "Python.2805_나무 자르기.executor": "Run",
     "Python.2839_설탕배달.executor": "Run",
     "Python.3079_입국심사.executor": "Run",
