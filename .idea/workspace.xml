@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/250102_백준 자료구조/2493_탑.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/250102_백준 자료구조/2800_괄호 제거.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/250103_백준_자료구조/1918_후위 표기식.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/250103_백준_자료구조/22942_데이터 체커.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
