@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
-
+ 
 public class b2696 {
     private static int M;
     private static PriorityQueue<Integer> maxHeap;
