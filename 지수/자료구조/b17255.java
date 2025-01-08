@@ -9,7 +9,7 @@ public class b17255 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        N = scanner.nextLine();
+        N = scanner.nextLine(); 
         nums = N.toCharArray();
 
         for (int i = 0; i < nums.length; i++) {
