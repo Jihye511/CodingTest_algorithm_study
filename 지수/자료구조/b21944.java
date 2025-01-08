@@ -11,7 +11,7 @@ public class b21944 {
             this.idx = idx;
             this.level = level;
             this.algo = algo; 
-        }
+        } 
 
         public int compareTo(Problem o) {
             if (level - o.level == 0) {
