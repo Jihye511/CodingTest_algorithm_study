@@ -10,7 +10,7 @@ public class b21944 {
         public Problem(int idx, int level, int algo) {
             this.idx = idx;
             this.level = level;
-            this.algo = algo;
+            this.algo = algo; 
         }
 
         public int compareTo(Problem o) {
