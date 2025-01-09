@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class b22943 {
+public class b22943 { 
     private static List<Integer> combiResults = new ArrayList<>();
     private static List<Integer> answers = new ArrayList<>();
     private static int M, K;
