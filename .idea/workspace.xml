@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/250114_백준 트리/14675_단절점과 단절선.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/250114_백준 트리/9934_완전 이진 트리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/250115_백준 트리/1068_트리.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
