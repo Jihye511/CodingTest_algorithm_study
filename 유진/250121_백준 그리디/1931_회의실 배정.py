@@ -17,4 +17,5 @@ for newStart, newEnd in arr:
     if end <= newStart:
         answer += 1
         endPoint = newEnd
+
 print(answer)
