@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/250123_백준 그리디/13164_행복 유치원.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/250124_백준 그리디/19598_최소 회의실 개수.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,6 +95,7 @@
     "Python.1912_연속합.executor": "Run",
     "Python.1913_달팽이.executor": "Run",
     "Python.19532_수학은 비대면강의입니다.executor": "Run",
+    "Python.19598_최소 회의실 개수.executor": "Run",
     "Python.19637_IF문 좀 대신 써줘.executor": "Run",
     "Python.1969_DNA.executor": "Run",
     "Python.1991_트리 순회.executor": "Run",
