@@ -376,9 +376,21 @@
 
 </details>
 
+<details>
+  <summary>24. 완전탐색</summary>
+
+|일차|날짜| 알고리즘 | 세부항목 |[지혜](https://github.com/Jihye511)|[서연](https://github.com/seoyeon2001)|[유진](https://github.com/g0yujin)|[지은](https://github.com/JiELee1)|[지수](https://github.com/codesooo)|
+|---|---|---|---|---|---|---|---|---|
+|113일차|1/27|완전탐색|14620, 2961||||||
+|114일차|1/28|완전탐색|2615, 15661||||||
+|/|1/22||||||새해 복 많이 받으세용||
+|115일차|1/30|완전탐색|12919||||||
+|116일차|1/31|완전탐색|1548||||||
+
+</details>
+
 ## 🎯Next Week Target
 
-24주차. 완전탐색
 
 25주차. 그래프탐색
 
