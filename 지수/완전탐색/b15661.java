@@ -9,6 +9,7 @@ public class b15661 {
 	public static int combinationNumber=0;
 	public static boolean[] visited;
 	public static int result = Integer.MAX_VALUE;
+	
     public static void main(String[] args) throws IOException{
     	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     	
