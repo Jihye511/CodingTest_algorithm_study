@@ -23,7 +23,7 @@ for i in range(N):
                             result = 2
                         y, x = i, j
                     ny += dy
-                    nx += dx 
+                    nx += dx
 if result > 0:
     print(result)
     print(y+1,x+1)

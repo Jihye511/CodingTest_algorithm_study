@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/250128_백준 완전탐색/15661_링크와 스타트.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/250128_백준 완전탐색/2615_오목.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/250130_백준 완전탐색/12919_A와 B 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/250128_백준 완전탐색/2615_오목.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/250128_백준 완전탐색/2615_오목.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
