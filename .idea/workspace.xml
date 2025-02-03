@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/250131_백준 완전탐색/1548_부분 삼각 수열.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/250203_백준 그래프 탐색/14940_쉬운최단거리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/250203_백준 그래프 탐색/16918_봄버맨.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +73,7 @@
     &quot;Python.14938_서강그라운드.executor&quot;: &quot;Run&quot;,
     &quot;Python.14940_쉬운 최단거리.executor&quot;: &quot;Run&quot;,
     &quot;Python.1541_잃어버린 괄호.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1548_부분 삼각 수열.executor&quot;: &quot;Run&quot;,
     &quot;Python.15649_N과 M.executor&quot;: &quot;Run&quot;,
     &quot;Python.15650_N과M (2).executor&quot;: &quot;Run&quot;,
     &quot;Python.15652_N과 M(4).executor&quot;: &quot;Run&quot;,
