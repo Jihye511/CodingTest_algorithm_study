@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/250210_백준 백트레킹/1182_부분 수열의 합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/250210_백준 백트레킹/15666_N과M12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/250211_백준 백트레킹/10971_외판원순회2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/250211_백준 백트레킹/14888_연산자 끼워넣기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
     "Python.10773_제로.executor": "Run",
     "Python.10815_숫자카드.executor": "Run",
     "Python.10870_피보나치 수 5.executor": "Run",
+    "Python.10971_외판원순회2.executor": "Run",
     "Python.10994.executor": "Run",
     "Python.11000_강의실 배정.executor": "Run",
     "Python.11047_동전 0.executor": "Run",
@@ -70,6 +71,7 @@
     "Python.14467.executor": "Run",
     "Python.14567_선수과목.executor": "Run",
     "Python.1463_1로 만들기.executor": "Run",
+    "Python.14888_연산자 끼워넣기.executor": "Run",
     "Python.14916_거스름돈.executor": "Run",
     "Python.14938_서강그라운드.executor": "Run",
     "Python.14940_쉬운 최단거리.executor": "Run",
