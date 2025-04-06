@@ -439,5 +439,17 @@
 |129일차|3/23 -3/28|골드4|[문제 고](https://www.acmicpc.net/problem/16234)|||||
 </details>
 
+
+<details>
+  <summary>4월</summary>
+
+|일차|날짜| 알고리즘 | 세부항목 |[지혜](https://github.com/Jihye511)|[서연](https://github.com/seoyeon2001)|[유진](https://github.com/g0yujin)|[지은](https://github.com/JiELee1)|
+|---|---|---|---|---|---|---|---|
+|130일차|3/31 - 4/5|골드3|[문제 고](https://www.acmicpc.net/problem/17070)|||||
+|131일차|4/7 - 4/11|삼성기출|[문제 고](https://www.codetree.ai/ko/frequent-problems/problems/ancient-ruin-exploration/description)|||||
+|132일차|4/14 -4/18|삼성기출|[문제 고](https://www.codetree.ai/ko/frequent-problems/problems/magical-forest-exploration/description)|||||
+|133일차|4/21 - 4/25||[문제 고]()|||||
+</details>
+
 ## 🎯Next Week Target
 
