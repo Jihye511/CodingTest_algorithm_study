@@ -451,5 +451,18 @@
 |133일차|4/21 - 4/25|골드4|[문제 고](https://www.acmicpc.net/problem/16562)|||||
 </details>
 
+<details>
+  <summary>5월</summary>
+
+|일차|날짜| 알고리즘 | 세부항목 |[지혜](https://github.com/Jihye511)|[서연](https://github.com/seoyeon2001)|[유진](https://github.com/g0yujin)|[지은](https://github.com/JiELee1)|
+|---|---|---|---|---|---|---|---|
+|134일차|4/28 - 5/2|골드4|[문제 고](https://www.acmicpc.net/problem/1261)|||||
+|135일차|5/5 - 5/9|골드2|[문제 고](https://www.acmicpc.net/problem/1368)|||||
+|136일차|5/12 -5/16|골드4|[문제 고](https://www.acmicpc.net/problem/1405)|||||
+|137일차|5/19 - 5/23|골드3|[문제 고](https://www.acmicpc.net/problem/1726)|||||
+|138일차|5/26 - 5/30|골드3|[문제 고](https://www.acmicpc.net/problem/1915)|||||
+</details>
+
+
 ## 🎯Next Week Target
 
