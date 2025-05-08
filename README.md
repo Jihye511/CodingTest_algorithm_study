@@ -434,7 +434,7 @@
 
 |일차|날짜| 알고리즘 | 세부항목 |[지혜](https://github.com/Jihye511)|[서연](https://github.com/seoyeon2001)|[유진](https://github.com/g0yujin)|[지은](https://github.com/JiELee1)|
 |---|---|---|---|---|---|---|---|
-|127일차|3/9 -3/14|골드5|[문제 고](https://www.acmicpc.net/problem/9205)|✔️||||
+|127일차|3/9 -3/14|골드5|[문제 고](https://www.acmicpc.net/problem/9205)||✔️|||
 |128일차|3/16 -3/21|골드4|[문제 고](https://www.acmicpc.net/problem/1976)||✔️|||
 |129일차|3/23 -3/28|골드4|[문제 고](https://www.acmicpc.net/problem/16234)||✔️|||
 </details>
