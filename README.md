@@ -434,9 +434,9 @@
 
 |일차|날짜| 알고리즘 | 세부항목 |[지혜](https://github.com/Jihye511)|[서연](https://github.com/seoyeon2001)|[유진](https://github.com/g0yujin)|[지은](https://github.com/JiELee1)|
 |---|---|---|---|---|---|---|---|
-|127일차|3/9 -3/14|골드5|[문제 고](https://www.acmicpc.net/problem/9205)|||||
-|128일차|3/16 -3/21|골드4|[문제 고](https://www.acmicpc.net/problem/1976)|||||
-|129일차|3/23 -3/28|골드4|[문제 고](https://www.acmicpc.net/problem/16234)|||||
+|127일차|3/9 -3/14|골드5|[문제 고](https://www.acmicpc.net/problem/9205)|✔️||||
+|128일차|3/16 -3/21|골드4|[문제 고](https://www.acmicpc.net/problem/1976)||✔️|||
+|129일차|3/23 -3/28|골드4|[문제 고](https://www.acmicpc.net/problem/16234)||✔️|||
 </details>
 
 
@@ -445,10 +445,10 @@
 
 |일차|날짜| 알고리즘 | 세부항목 |[지혜](https://github.com/Jihye511)|[서연](https://github.com/seoyeon2001)|[유진](https://github.com/g0yujin)|[지은](https://github.com/JiELee1)|
 |---|---|---|---|---|---|---|---|
-|130일차|3/31 - 4/5|골드3|[문제 고](https://www.acmicpc.net/problem/17070)|||||
-|131일차|4/7 - 4/11|골드5|[문제 고](https://www.acmicpc.net/problem/1043)|||||
-|132일차|4/14 -4/18|골드3|[문제 고](https://www.acmicpc.net/problem/1099)|||||
-|133일차|4/21 - 4/25|골드4|[문제 고](https://www.acmicpc.net/problem/16562)|||||
+|130일차|3/31 - 4/5|골드3|[문제 고](https://www.acmicpc.net/problem/17070)||✔️|||
+|131일차|4/7 - 4/11|골드5|[문제 고](https://www.acmicpc.net/problem/1043)||✔️|||
+|132일차|4/14 -4/18|골드3|[문제 고](https://www.acmicpc.net/problem/1099)||✔️|||
+|133일차|4/21 - 4/25|골드4|[문제 고](https://www.acmicpc.net/problem/16562)||✔️|||
 </details>
 
 <details>
@@ -456,7 +456,7 @@
 
 |일차|날짜| 알고리즘 | 세부항목 |[지혜](https://github.com/Jihye511)|[서연](https://github.com/seoyeon2001)|[유진](https://github.com/g0yujin)|[지은](https://github.com/JiELee1)|
 |---|---|---|---|---|---|---|---|
-|134일차|4/28 - 5/2|골드4|[문제 고](https://www.acmicpc.net/problem/1261)|||||
+|134일차|4/28 - 5/2|골드4|[문제 고](https://www.acmicpc.net/problem/1261)||✔️|||
 |135일차|5/5 - 5/9|골드2|[문제 고](https://www.acmicpc.net/problem/1368)|||||
 |136일차|5/12 -5/16|골드4|[문제 고](https://www.acmicpc.net/problem/1405)|||||
 |137일차|5/19 - 5/23|골드3|[문제 고](https://www.acmicpc.net/problem/1726)|||||
