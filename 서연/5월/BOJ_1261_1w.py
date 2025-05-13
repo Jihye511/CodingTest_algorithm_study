@@ -1,3 +1,5 @@
+# 다익스트라
+
 import sys
 import heapq
 
@@ -14,9 +16,9 @@ def sol():
     distance[0][0] = 0
 
     while q:
-        cost, x, y = heapq.heappop(q)
+        cnt, x, y = heapq.heappop(q)
 
-        if cost > distance[x][y]:
+        if cnt > distance[x][y]:
             continue
 
         for i in range(4):
@@ -26,8 +28,8 @@ def sol():
             if nx < 0 or nx >= N or ny < 0 or ny >= M:  # 범위를 벗어나거나 이미 방문했으면
                 continue
 
-            if cost + arr[nx][ny] < distance[nx][ny]:
-                distance[nx][ny] = cost + arr[nx][ny]
+            if cnt + arr[nx][ny] < distance[nx][ny]:
+                distance[nx][ny] = cnt + arr[nx][ny]
                 heapq.heappush(q, (distance[nx][ny], nx, ny))
 
 
